@@ -99,7 +99,7 @@ uvicorn app.main:app
  - https://github.com/DmitryAlexandrov91
 
  <u>Telegram</u>
- - https://t.me/@AlDmAl
+ - https://t.me/AlDmAl
 
   <u>Habr Career</u>
  - https://career.habr.com/aldmal
